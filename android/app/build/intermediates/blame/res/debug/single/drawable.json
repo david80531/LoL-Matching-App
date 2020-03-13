@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gold_v.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\gold_v.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\platinum_iv.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\platinum_iv.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bronze_i.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\bronze_i.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bronze_iii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\bronze_iii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\platinum_iii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\platinum_iii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\silver_ii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\silver_ii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\platinum_ii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\platinum_ii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\platinum_v.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\platinum_v.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gold_i.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\gold_i.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diamond_i.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\diamond_i.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bronze_ii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\bronze_ii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gold_iv.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\gold_iv.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\silver_v.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\silver_v.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bronze_v.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\bronze_v.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diamond_iii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\diamond_iii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\silver_iii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\silver_iii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\silver_iv.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\silver_iv.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\platinum_i.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\platinum_i.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diamond_ii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\diamond_ii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diamond_iv.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\diamond_iv.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\silver_i.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\silver_i.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diamond_v.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\diamond_v.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gold_ii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\gold_ii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gold_iii.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\gold_iii.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bronze_iv.png",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\src\\main\\res\\drawable\\bronze_iv.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\lolMatchingMobile\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\Desktop\\LolMatchingMobile\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    }
+]

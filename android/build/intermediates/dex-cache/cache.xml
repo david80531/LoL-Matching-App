@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.44.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_51f802c2fa5f32f1388994094e0375770f5673e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a00b089c696cb47720fed05449b33d2f23c8bb16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_80d1f1b50e0ef6892ca2c358fda98a773e7d5ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_f94b841ef0c6f5f5947b7a574532e3e7eec8f71c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_18e07fc19d32180fa37e73307211f15e04c89c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_2ed4c758d02a3470f54d4b47453c7dd162040404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1cb67a1a5ff343a7ddc6cefec4d0194257c780d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ed056cf491007105d54d8d8bd5fe559657696c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_eb357a7eb9f6b1f6a1d85cc788f721812757d199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_8071f4c9153dc7870472de6e150b34ef67614792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_e83cd40fccd7ed059b5bc4753966f0b2d2389dbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_006ce85cced6eb823a57555fe4999c1641a59cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_8252f5e87a3864d202f90010153ed2148082c18a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_d9f9a45068ebf670ecb9f9e6263eccf1d677ed56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_b8f08672750ddc0b08e8c4b3d77a4efc8591c27c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\me.leolin-ShortcutBadger-1.1.8_2be402477911f2bda71598c04181119e96f9085d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_3d960df44ca90d01006945dd81750d111c0aa1ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_2cd5a8c533d0ee4f26a7ecd09fa87f3e8828b69d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_8d99b60e2a9fad5081d768b1f4f7963b443dc551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\LolMatchingMobile\react-native-push-notification\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f56f33b212cfa933d1a88d8e4b2ce4eff42808">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\LolMatchingMobile-react-native-push-notification-unspecified_4183b09c21c9189b47a066b5e49d58ead26cb35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_39b46fa46dee20f0064575ded30d1bb56bc31a90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_bb130a7c04283fae6642c0ca51c370da79c1ad03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_2bfb0f52dd18cfbfa5ccc44a091a2c2bd56bea66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_ca9340ad21bd9fb53a4714284c09b775385d4848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_1e41010080ce4643b744d8e02a447e8d953f498e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.44.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.44.0_169f3a1a59b65c812f24df512b75eebacbc000bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\user\Desktop\LolMatchingMobile\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_b41270ed26b97ecf5cfff895454c9ab289ea6d3f.jar" />
+    </item>
+
+</items>
